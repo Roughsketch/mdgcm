@@ -23,6 +23,6 @@ For convinience there are single letter aliases for all the commands.
 
 |Command|Alias|
 |-------|----:|
-|extract|e|
-|build|b|
-|files|f|
+|extract|   e |
+|build  |   b |
+|files  |   f |
